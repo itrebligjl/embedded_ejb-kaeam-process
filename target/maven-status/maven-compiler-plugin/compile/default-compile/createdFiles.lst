@@ -1,0 +1,3 @@
+org\archemy\embedded\web\ProcessServlet.class
+org\archemy\process\App.class
+org\archemy\embedded\util\StartupBean.class
